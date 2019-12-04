@@ -1,0 +1,18 @@
+Mastermind - Spelregels.
+
+Het doel van het spel is om de kleurcode van je tegenstander (in dit geval de computer!) te achterhalen.
+De kleurcode bestaat uit 4 gekleurde ballen. Deze is alleen zichtbaar voor de computer, en kan gekozen worden uit 6 verschillende kleuren.
+De kleurcode kan bestaan meerdere kleuren en kan ook tot 4 keer dezelfde kleur hebben.
+
+Jij probeert de code te kraken door op de onderste rij op kleuren te klikken. LET OP: Je mag geen zetten terugnemen!
+
+Zodra je 4 kleuren hebt geselecteerd en je hebt de kleurcode correct geraden, win jij de game.
+Als jij de kleurcode niet correct hebt geraden geeft de tegenstander jou hints.
+
+Zwart = Correcte plaats en kleur
+Geel = Correcte kleur op de verkeerde plaats
+
+Je begint met 64 punten en je krijgt 8 punten aftrek per foute antwoord, je hebt 8 kansen.
+
+Succes! 
+
